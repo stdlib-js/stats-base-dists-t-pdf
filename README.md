@@ -65,13 +65,18 @@ where `v > 0` is the degrees of freedom.
 ## Usage
 
 ```javascript
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-t-pdf/tags). For example,
+
+```javascript
 import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@v0.2.0-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@v0.2.0-deno/mod.js';
+import { factory } from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@deno/mod.js';
 ```
 
 #### pdf( x, v )
@@ -134,7 +139,7 @@ y = mypdf( 1.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@v0.2.0-deno/mod.js';
+import pdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-t-pdf@deno/mod.js';
 
 var v;
 var x;
