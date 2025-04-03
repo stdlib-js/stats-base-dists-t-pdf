@@ -2,6 +2,63 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-04-03)
+
+<section class="features">
+
+### Features
+
+-   [`8523abf`](https://github.com/stdlib-js/stdlib/commit/8523abfa3aa131b1acce67658c71505b226473c2) - add C implementation for `stats/base/dists/t/pdf` [(#3940)](https://github.com/stdlib-js/stdlib/pull/3940)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3877](https://github.com/stdlib-js/stdlib/issues/3877)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8523abf`](https://github.com/stdlib-js/stdlib/commit/8523abfa3aa131b1acce67658c71505b226473c2) - **feat:** add C implementation for `stats/base/dists/t/pdf` [(#3940)](https://github.com/stdlib-js/stdlib/pull/3940) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Aadish Jain
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
