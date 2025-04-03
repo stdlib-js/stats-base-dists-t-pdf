@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`d5f2b9a`](https://github.com/stdlib-js/stdlib/commit/d5f2b9a8843f9e630a815368b7d55678a8fdaaf6) - **chore:** clean-up _(by Athan Reines)_
 -   [`8523abf`](https://github.com/stdlib-js/stdlib/commit/8523abfa3aa131b1acce67658c71505b226473c2) - **feat:** add C implementation for `stats/base/dists/t/pdf` [(#3940)](https://github.com/stdlib-js/stdlib/pull/3940) _(by Aadish Jain, Philipp Burckhardt, stdlib-bot)_
 
 </details>
@@ -46,9 +47,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aadish Jain
+-   Athan Reines
 -   Philipp Burckhardt
 
 </section>
